@@ -6,6 +6,14 @@ A serverless web application that uses Amazon Rekognition to identify objects or
 
 [dwgq2wvqywom3.cloudfront.net](https://dwgq2wvqywom3.cloudfront.net)
 
+## Demo & Screenshots
+
+![App Demo](docs/demo.gif)
+
+| Object Detection | Celebrity Recognition |
+|------------------|------------------------|
+| ![Object Detection](docs/screenshot-objects.png) | ![Celebrity Recognition](docs/screenshot-celebrity.png) |
+
 ## Architecture
 
 The application consists of:
